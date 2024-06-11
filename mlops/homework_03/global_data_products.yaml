@@ -1,0 +1,10 @@
+data_ingest_global:
+  object_type: pipeline
+  object_uuid: data_ingest
+  outdated_after:
+    seconds: 600
+  project: homework_03
+  repo_path: /home/src/mlops/homework_03
+  settings:
+    data_ingest_export: {}
+    model_train03: {}
